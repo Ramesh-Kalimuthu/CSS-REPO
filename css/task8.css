@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://economictimes.indiatimes.com/thumb/msid-95529569,width-1200,height-900,resizemode-4,imgsize-44172/induction-of-next-generation-in-family-business.jpg?from=mdr);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: rgb(237, 239, 240);
+    height: 550px;
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+img{
+    width: 400px;
+}
+.font{
+    font-size:larger;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ol{
+    font-size:large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: square;
+    line-height: 30px;
+    padding-left: 50px;
+}
+input{
+    margin-left: 40px;
+    height: 30px;
+}
+button{
+    height: 35px;
+    margin-left: 30px;
+    background-color: red;
+}
