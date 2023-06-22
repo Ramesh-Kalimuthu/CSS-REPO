@@ -1,0 +1,24 @@
+div{
+    background-color: aliceblue;
+    font-size: small;
+    height: 250px;
+    width: 200px;
+    margin: 20px;
+    margin-left: 130px;
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+}
+.icon{
+    font-size: 50px ;
+    margin: 70px 50px 0px;
+}
+hr{
+    width: 100px;
+    height: 5px;
+    background-color: black;
+}

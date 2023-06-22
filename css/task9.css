@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+body{
+    background-image: linear-gradient(to left,grey,rgb(33, 177, 143),green);
+}
+h1{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+p{
+   text-align: center;
+}
+.icon{
+    text-align: center;
+    font-size: 60px;
+    padding: 40px;
+}
+.section{
+    margin-left:550px ;
+    text-align:center;
+}
+
