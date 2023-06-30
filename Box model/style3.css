@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel&family=Faustina&family=Signika&display=swap');
+
+body{
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/5896.jpg);
+    background-size: cover;
+}
+div{
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    box-shadow: -5px -10px 30px #111010;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Faustina', serif;
+    font-family: 'Signika', sans-serif;
+
+}
+table{
+    padding-left: 250px;
+    margin-top: 170px;
+}
+td{
+    padding: 20px;
+}
+.fontSize{
+    font-size:45px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+p{
+    margin-left: 10px;
+    color:darkgray;
+}
+.pHead{
+    font-size:xx-large;
+    color: #111010;
+    text-align: center;
+}
